@@ -1,0 +1,48 @@
+CHANGES
+LICENSE
+MANIFEST.in
+README.rst
+setup.cfg
+setup.py
+GrTiPy/Brans_Dicke_Equations.py
+GrTiPy/Brans_Dicke_Equations_ab.py
+GrTiPy/Christoffel_All.py
+GrTiPy/Christoffel_n_ab.py
+GrTiPy/CovariantD.py
+GrTiPy/Det.py
+GrTiPy/Div.py
+GrTiPy/Einstein_Equation.py
+GrTiPy/Einstein_Equation_ab.py
+GrTiPy/Geodesics.py
+GrTiPy/Laplacian_operator.py
+GrTiPy/Matric_coef.py
+GrTiPy/Ricci_Tensor_All.py
+GrTiPy/Ricci_Tensor_ab.py
+GrTiPy/Ricci_scalar.py
+GrTiPy/Riemann_All.py
+GrTiPy/Riemann_nabc.py
+GrTiPy/Scalar_Brans_Dicke_field_Equation.py
+GrTiPy/Spin_connection.py
+GrTiPy/Spin_connection_first.py
+GrTiPy/Tr.py
+GrTiPy/Wely_Tensor_abcd.py
+GrTiPy/__init__.py
+GrTiPy/acceleration_vector.py
+GrTiPy/expansion_scalar.py
+GrTiPy/inverse_metric.py
+GrTiPy/projection_tensor.py
+GrTiPy/shear_tensor_ab.py
+GrTiPy.egg-info/PKG-INFO
+GrTiPy.egg-info/SOURCES.txt
+GrTiPy.egg-info/dependency_links.txt
+GrTiPy.egg-info/not-zip-safe
+GrTiPy.egg-info/requires.txt
+GrTiPy.egg-info/top_level.txt
+docs/B-D equation with Cosmological  .ipynb
+docs/BianchiType-IIICosmologicalMod.ipynb
+docs/Big ban.pdf
+docs/Cosmological Models with No Big Bang.ipynb
+docs/Example_Equations_of_motion .ipynb
+docs/Five dimensional FRW.ipynb
+docs/Static_spherically_symmetric_spacetime.ipynb
+docs/Very important BianchiType-IIICosmologicalMod.pdf
