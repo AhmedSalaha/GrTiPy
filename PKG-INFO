@@ -1,0 +1,59 @@
+Metadata-Version: 1.1
+Name: GrTiPy
+Version: 0.1.0
+Summary: General Relativity toolbox in Python
+Home-page: UNKNOWN
+Author: Ahmed Salah
+Author-email: asalah3020@gmail.com
+License: BSD
+Description: GrTiPy
+        =======
+        
+        General Relativity toolbox in Python
+        based on SymPy (python library for symbolic mathematics).
+        
+        
+        
+        Installation
+        ------------
+        
+        GrTiPy depends on:
+        
+        * Python (version >=2.6)
+        * SymPy (version >=7.3)
+        * IPython (version >=1.1.0)
+        
+        IPython notebook isn't required but it makes it easier to work with complex 
+        mathematical formulas.
+        
+        To install GrTiPy, simply run
+        
+            $ python setup.py install
+        
+        or
+        
+            $ pip install GrTiPy
+        
+        
+        Documentation and usage
+        -----------------------
+        
+        docs/GrTiPy-tutorial.ipynb
+        Example/____.py
+        
+Platform: any
+Classifier: Development Status :: 3 - Alpha
+Classifier: License :: OSI Approved :: BSD License
+Classifier: Programming Language :: Python
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Scientific/Engineering :: Mathematics
+Classifier: Topic :: Scientific/Engineering :: Physics
+Classifier: Intended Audience :: Science/Research
+Classifier: Intended Audience :: Education
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.2
+Classifier: Programming Language :: Python :: 3.3
